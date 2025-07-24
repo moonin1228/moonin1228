@@ -1,7 +1,7 @@
 ### 안녕하세요! 👋 프론트엔드 개발자 문인입니다.
 
 💻 주요 기술: JavaScript, React, HTML, CSS  
-🚀 배포 경험: AWS
+🚀 배포 경험: AWS <br>
 🛠 협업 툴: Git, Figma, Notion
 
 
