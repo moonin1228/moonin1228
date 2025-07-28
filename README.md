@@ -7,7 +7,7 @@
 
 ### 진행한 프로젝트
 
-- 🎮 [레트로 박스](https://github.com/moonin1228/retrobox)  
+- 🎮 [레트로 박스](https://github.com/moonin1228/retro-box)  
   고전 게임을 웹에서 실행하는 GBA/패미컴 에뮬레이터 (React + WASM)
 
 - 🎲 [Domido - 3D 도미노 시뮬레이터](https://github.com/Domi-do/Domido) <br>
