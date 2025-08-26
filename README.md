@@ -17,4 +17,4 @@
 
 ### 📫 연락처
 
-- Email: moonin1815@gmail.com  
+- Email: dev.moonin@gmail.com  
